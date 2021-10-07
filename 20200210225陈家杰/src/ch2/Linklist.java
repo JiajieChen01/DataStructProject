@@ -49,5 +49,7 @@ public class Linklist implements iList {
 
     }
 
+    public void remove(int i){
 
+    }
 }
